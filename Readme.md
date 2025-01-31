@@ -147,7 +147,7 @@ This project is **open-source**. Feel free to **fork, contribute, or customize**
 
 ## 📞 Contact:
 - **GitHub**: [GitHub Profile](https://github.com/Bharath-S-J)
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/bharath-s-j-56a734206)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bharath-s-j-56a734206)
 - **Portfolio**: [Portfolio Website](#) (Link to be added)
 
 
