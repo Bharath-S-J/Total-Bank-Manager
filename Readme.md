@@ -140,11 +140,6 @@ This project requires the following external libraries:
 
 ---
 
-## **📜 License**  
-This project is **open-source**. Feel free to **fork, contribute, or customize** for your use.  
-
----
-
 ## 📞 Contact:
 - **GitHub**: [GitHub Profile](https://github.com/Bharath-S-J)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/bharath-s-j-56a734206)
