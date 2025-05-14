@@ -138,20 +138,3 @@ This project requires the following external libraries:
 ## **📸 Screenshots & Demo**  
 *Screenshots are available in the "Images" folder.*  
 
----
-
-## 📞 Contact
-
-You can connect with me through the following platforms:
-
-- **GitHub**: [Bharath S J](https://github.com/Bharath-S-J)  
-  Explore my repositories and projects.
-
-- **LinkedIn**: [Bharath S J](https://www.linkedin.com/in/bharathsj)  
-  Let's connect and discuss potential opportunities.
-
-- **Portfolio**: [Portfolio Website](https://bharathsjweb.vercel.app/)  
-  Check out my work and projects.
-
-
-🙌 **Contributions & suggestions are welcome!** 🚀  
